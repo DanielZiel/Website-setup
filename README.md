@@ -12,7 +12,7 @@ The goal of this project is to streamline and expedite the process of creating v
 
 <h2>How to deploy</h2>
 <br>git clone https://github.com/DanielZiel/Website-setup.git
-<br>cd /Website-setup
+<br>cd /{project_name_folder}
 <br>vagrant up
 
 
