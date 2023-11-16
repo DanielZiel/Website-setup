@@ -10,6 +10,17 @@ Vagrant
 VirtualBox
 Bash
 
+<h2>How to deploy</h2>
+git clone https://github.com/DanielZiel/Website-setup.git
+cd /Website-setup
+vagrant up
+
+
+
+
+
+
+
 
 
 
