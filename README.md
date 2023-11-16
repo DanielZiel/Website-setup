@@ -1,5 +1,5 @@
 # Website-setup
-Short Description: In this project, I automatically deploy virtual machines using the vagrant tool and configure them according to specified requirements.
+In this project, I automatically deploy virtual machines using the vagrant tool and configure them according to specified requirements.
 
 Project Goal
 
