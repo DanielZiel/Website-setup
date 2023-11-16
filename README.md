@@ -6,14 +6,14 @@ In this project, I automatically deploy virtual machines using the vagrant tool 
 The goal of this project is to streamline and expedite the process of creating virtual machines by automating their deployment and configuration. With this solution, users can quickly obtain ready-to-use environments for testing, development, or other purposes.
 
 <h2>Tools</h2>
-Vagrant
-VirtualBox
-Bash
+<br>Vagrant
+<br>VirtualBox
+<br>Bash
 
 <h2>How to deploy</h2>
-git clone https://github.com/DanielZiel/Website-setup.git
-cd /Website-setup
-vagrant up
+<br>git clone https://github.com/DanielZiel/Website-setup.git
+<br>cd /Website-setup
+<br>vagrant up
 
 
 
