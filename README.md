@@ -7,8 +7,8 @@ The goal of this project is to streamline and expedite the process of creating v
 
 <h2>Tools</h2>
 <tr>Vagrant</tr> 
--VirtualBox
--Bash
+<tr>VirtualBox</tr>
+<tr>Bash</tr>
 
 
 
